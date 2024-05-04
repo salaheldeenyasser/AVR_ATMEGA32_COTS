@@ -1,4 +1,5 @@
 Features: 
+
 Worldwide 2.4GHz ISM band operation
 126 RF channels
 1MHz non-overlapping channel spacing at 1Mbps
