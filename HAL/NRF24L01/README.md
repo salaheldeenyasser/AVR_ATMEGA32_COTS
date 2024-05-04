@@ -12,6 +12,7 @@ Auto packet transaction handling
 For a full list of features see the datasheet.
 
 *Part 1 : Registers*
+
 The NRF24L01+ consists mostly of 8bit registers. In fact there are only 3 configuration registers that are 32bit. This implies that we will be using the SPI peripheral with 8bit data width. 
 
 Ok now on to the registers. First up to the party is the configuration register, not sure why its called that when they are ALL mostly configuration registers. But nonetheless here it is: 
