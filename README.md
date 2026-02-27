@@ -1,1 +1,1 @@
-##AVR_ATMEGA32 COTS 
+## AVR ATMEGA32 Code On The Shelf
