@@ -1,5 +1,5 @@
-#include "STD_TYPES.h"
-#include "BIT_MATH.h"
+#include "../../LIB/STD_TYPES.h"
+#include "../../LIB/BIT_MATH.h"
 
 #include "USART_interface.h"
 #include "USART_private.h"
@@ -41,6 +41,8 @@ void USART_voidSendChar(u8 copy_u8Byte)
 		;
 	UDR = copy_u8Byte;
 }
+
+u8
 
 u8 USART_u8RecieveByte()
 {
